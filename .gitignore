@@ -1,0 +1,14 @@
+!*.mkdn
+*.mkdn~
+backup.zip
+darlings/
+darlings/*
+*.ico
+*.pdf
+ideas/
+ideas/*
+*.jpg
+server/
+server/*
+server.sh
+tmp
