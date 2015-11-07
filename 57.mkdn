@@ -32,7 +32,7 @@ Vidalia nods. "Yes, I think so. And thanks. This is the first work I've seen in 
 ----
 
 Steven comes running up to the car wash. Greg is running the car washing machine on
-some customer's car --- a young man, looking out-of-town.
+some customer's car --- a young man, from out-of-town.
 
 "Dad! Great news!" Steven yells.
 
@@ -40,7 +40,7 @@ some customer's car --- a young man, looking out-of-town.
 
 Steven runs up to Greg and jumps up and down with a massive grin on his face.
 
-"That's my son," Greg explains to the young car-owner. "All right, kiddo,
+"That's my son," Greg explains to the young car owner. "All right, kiddo,
 out with it?"
 
 "Pearl just found out we have a bank account in Switzerland,
@@ -51,7 +51,7 @@ and it's *full of money!*"
 "Yeah! She said stuff about investing and college funds and an allowance and helping you!"
 Steven hugs Greg as he says the last part.
 
-"Wow... That's... That's pretty huge. I mean, I'm not in money-trouble, but the last few years
+"Wow... That's... That's pretty huge. I mean, I'm not in money trouble, but the last few years
 have been... *Lean*. How about I finish washing this gentleman's car, and we celebrate with a pizza?"
 
 ----
@@ -109,7 +109,7 @@ I can see how... Good thing you are though."
 Steven cocks his head. "I am?"
 
 "Yeah. I've got your birth certificate, and a few documents
-in a strongbox in a bank storage box in Ocean City Bank. It's where
+in a strongbox in a bank storage box in Crossroads Central Bank. It's where
 I keep the most important things. And my bank account."
 
 Steven takes the second-to-last piece. "Connie's parents talked about
@@ -166,6 +166,6 @@ Steven shakes his head. "It's OK. Vidalia is going to teach me."
 I can start school."
 
 Greg nods approvingly. "I actually had no idea she was a teacher. Huh. Well,
-that's going to be a lot of fun?"
+that's going to be a lot of fun, right?"
 
 "I hope so."
