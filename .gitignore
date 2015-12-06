@@ -1,5 +1,7 @@
 *
 !*.mkdn
+RULES.mkdn
+WarStory.mkdn
 !LICENSE
 
 # *.mkdn~
