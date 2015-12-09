@@ -6,7 +6,7 @@ The door closes behind her, and she is alone in the beach house.
 
 It is... Exhausting... Just to be in Opal's company.
 
-Connie trudges over into the kitchen for a glass of water and pulls out her phone.
+Connie trudges into the kitchen for a glass of water and pulls out her phone.
 
 > ~~~
 >
@@ -16,8 +16,9 @@ Connie trudges over into the kitchen for a glass of water and pulls out her phon
 >
 > ~~~
 
-Connie looks at the text, and lets her thumb hover over the send-button.
-In the end she deletes it, rather than send it and risk an angry phone call.
+Connie looks at the text, and lets her thumb hover over the 'send' button.
+After a moments deliberation she deletes it, rather than send it and risk
+an angry phone call.
 
 Better to ask for forgiveness than permission.
 
@@ -32,7 +33,7 @@ Instead, she texts Steven:
 >
 >               Connie:
 >   And she took me for
->      a roller-coaster
+>      a roller coaster
 >        ride of a trip
 >   through the temple.
 >
@@ -41,7 +42,7 @@ Instead, she texts Steven:
 Connie sips her water and looks out the window, but no reply comes.
 
 She checks the time. *Only three minutes?* She looks at the temple
-door, just slightly hoping that Opal will emerge. *What have become of me ---
+door, just slightly hoping that Opal will emerge. *What has become of me ---
 I used to be good at waiting for things.*
 
 Defeated by her own impatience, Connie goes up to Steven's bedroom
@@ -66,7 +67,7 @@ to just an impossible fountain of water flowing in mid-air. "Aren't we---" Conni
 Opal holds up the finished bracelet briefly for Connie to see, before her feet make contact
 with the water of a different and much smaller platform.
 
-It too turns glassy, and six gray obelisks starts to rise from under the surface, near the edge.
+It too turns glassy, and six gray obelisks start to rise from under the surface, near the edge.
 On their surface are complicated geometric patterns of inlaid lines of pink, softly glowing
 crystal. They rise to nearly twenty feet tall before they are joined by a central hexagonal
 podium in much the same design --- wide enough to be a stage for a mid-sized rock band.
@@ -81,20 +82,20 @@ Connie looks at the device --- metallic green with a white pearl-like stone.
 To Connie's instinctive dismay, Opal tosses it into the air. It sails over the central
 podium where an unseen force intercepts it.
 
-From Pearl's Gem, Opal draws two rather imposing syringes with a little bit of
-clear fluid in, cotton swabs and a bottle of iodine.  "Wrists," she says.
+From Pearl's Gem Opal draws two rather imposing syringes with a little bit of
+clear fluid in them, cotton swabs, and a bottle of iodine.  "Wrists," she says.
 
-Connie --- being no stranger to needles, but still not finding them the funniest thing
+Connie --- being no stranger to needles, but still not finding them the most enjoyable thing
 in the world --- reluctantly holds out her arms for Opal. Gently and with practiced ease,
-Opal disinfects the her skin. Then her grip grows firm and she deftly jabs Connie in both arms,
-injecting.
+Opal disinfects the skin. Then her grip grows firm and she deftly jabs Connie in both arms at
+once, injecting.
 
 The pain is sudden and brief. Connie gives a small yelp.
 
 "There. Nicely deposited under the skin," Opal says. "Small bits of metal
 that the bracelet can detect."
 
-A trickle of blood seep from the puncture wounds. Connie winces at the pain. "That
+A trickle of blood seeps from each puncture wound. Connie winces at the pain. "That
 kinda hurt."
 
 "Sorry," Opal says. "Better to get it over with quickly. Here---" she conjures a
@@ -102,9 +103,15 @@ small vial. "Healing water."
 
 Connie gratefully takes the vial, uncorks it and pours a bit on each wound. The 
 pain ceases shortly after, and the bleeding stops. She licks the remaining blood off,
-revealing unbroken skin.
+revealing unbroken skin. "Thanks."
 
-Opal, meanwhile turns to the central podium, places a hand on the controller, and gestures.
+"I've---" Opal begins. "Well, Pearl has been carrying it around since Amethyst almost... Died"
+
+"I heard about that," Connie says and scratches at the injection sites. The healing water
+may have taken care of the tissue damage, but not the sensation of having a piece of metal
+the size of a grain of rice embedded.
+
+Opal turns to the central podium, places a hand on the controller, and gestures.
 Holographic screens --- both
 her own light blue ones, and ones projected by the arrangement of stones in pink, fill
 the air.
@@ -114,12 +121,12 @@ and hands it to Connie.
 
 Connie inspects it first. It has a broad head, tapering shoulders and
 narrow shank opposite the head. The inside of the narrow side has what looks
-like small ball-bearings.
+like small ball bearings.
 
 The wire leads into the water below.
 
 The head is sat with a pearly stone near the front edge --- reminiscent of the
-bulbous ends of the duplicator wand's antennae --- and below that a rhomboid
+bulbous ends of the duplicator wand's antennae --- and below that, a rhomboid
 window with an orange substance below it. The base material is an iridescent green
 --- ranging from white to vivid neon to gunmetal.
 
@@ -159,12 +166,12 @@ They decide on gestures for the four functions --- creating Clonnies, deleting
 Clonnies, updating mental image, and updating physical image. On Connie's insistence
 they use the sign language I-L-Y-sign for the creation gesture.
 
-To Connie's disappointment, Opal has never heard of Spider Man.
+To Connie's disappointment, Opal has never heard of Spider-Man.
 
 "So, how do I select equipment?" Connie asks.
 
 Opal gestures on her own wrist for Connie to inspect the side of the bottom side of the
-bracelet head, opposite the stone. There sits three dials, all like the crown of a wrist watch,
+bracelet head, opposite the stone. There sit three dials, all like the crown of a wrist watch,
 but larger, next to a flushed sliding switch.
 
 Connie gives the middle one a pull, and it slides out a little.
@@ -197,12 +204,12 @@ the big guns..."
 Opal beckons and Connie holds out the bracelet. With alacrity and precision Opal connects
 over forty similar translucent wires to various points on the bracelet chassis.
 
-Another few hundreds of holographic screens appear, and Opal's own blue one are now heavily
+Another few hundred holographic screens appear, and Opal's own blue one are now heavily
 outnumbered by the pink. Connie boggles at the sheer amount of information on display and partially
 tunes out Opal's mutterings.
 
 "... Since we want one of the options to be non-poofing, I've foregone consolidating the
-slice operations for object detection and central nervous-system detection, which also
+slice operations for object detection and central nervous system detection, which also
 means we can start with the object detector output to develop the needed slicing in
 the composer..."
 
@@ -238,7 +245,7 @@ from resting her head against the hard stone. "How long?"
 
 "Right, um..." Connie says and thinks back. "Sabre, baton, knife, buckler... And a gun?"
 
-"We ought to actually just go look in the armory for some of those," Opal says thoughtfully.
+"We should just go look in the armory for some of those," Opal says thoughtfully.
 
 "*Rose's* armory?" Connie asks.
 
@@ -284,7 +291,7 @@ Opal scans the assortment of weapons and the two outfits into the bracelet.
 
 "Not without direct access," Opal replies and jiggles one of the many translucent wires.
 
-Connie looks at the by now, truly massive jumble of wires attached to the
+Connie looks at the by now truly massive jumble of wires attached to the
 bracelet. The ends seemingly adhere to the metal of the casing. "How do those things attach?" she asks.
 
 "Capillaries in the metal," Opal says. "Very fine holes, and very fine needles on the wires."
@@ -294,7 +301,7 @@ bracelet. The ends seemingly adhere to the metal of the casing. "How do those th
 It all comes together more or less seamlessly in the end.
 
 "Be advised, the poofing and non-poofing variants are tracked separately. You
-will have to take a physical imprint in both modes for it to work," Opal explains.
+will have to take a physical imprint in each mode for it to work," Opal explains.
 
 Connie double checks that the switch is set to non-poofing.
 She hesitates, remembering once again the horrible scene at the hospital.
@@ -354,7 +361,7 @@ bated breath for the same reaction, but nothing happens.
 
 Opal nods. "One last thing to test---"
 
-Connie stifles as scream as Opal hammers a finger into Clonnie's chest, like an arrow through flesh.
+Connie stifles a scream as Opal hammers a finger into Clonnie's chest, like an arrow through flesh.
 For a fraction of a second, Clonnie begins to process what has happened, before dematerializing in a
 cloud of mist.
 
