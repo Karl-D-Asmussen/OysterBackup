@@ -210,8 +210,8 @@ tunes out Opal's mutterings.
 
 "... Since we want one of the options to be non-poofing, I've foregone consolidating the
 slice operations for object detection and central nervous system detection, which also
-means we can start with the object detector output to develop the needed slicing in
-the composer..."
+means we can start with the object detector output to develop the necessary slicing in
+the Composer..."
 
 The Clonnie goes through numerous starts and fits --- moving about
 on fast-forward, as well being turned into various smears of holographic substance and back.
