@@ -1,0 +1,10 @@
+
+The following things need remedying:
+
+* Early chapters have a lot of spelling errors
+  still. *Gem* vs *gem*.
+* Stevonnie's description of Gem history is inaccurate
+  as of `WarStory.mkdn`.
+* Two accidental misgenderings of Stevonnie in one of the
+  beach party chapters.
+* *its* vs *it's*.
