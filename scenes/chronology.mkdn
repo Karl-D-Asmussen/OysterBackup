@@ -48,4 +48,9 @@ tinkering-session-5
 tinkering-session-6
   Working on the circlet?
 
-This is a test
+----
+
+Idea for Tinkering session:
+  Pearl shows a visualization of the starfish battle
+  shows a situation that *didn't happen*
+  cognitive differences
