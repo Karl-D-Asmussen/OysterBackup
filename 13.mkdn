@@ -141,7 +141,7 @@ and puts a hand on one of the sides.
 
 The touched surface glows softly, and Pearl pulls her hand outwards from the side, causing the
 cube to extrude an identical cube. She pulls further, until twelve cubes are lying in a
-row. Then, she traces a hand down the sides of the six cubes, causing each to glow in
+row. Then, she traces a hand down the sides of the twelve cubes, causing each to glow in
 turn, before pulling again, causing the whole row to extrude cubes, letting her pull
 it into a eight-by-twelve rectangle.
 
