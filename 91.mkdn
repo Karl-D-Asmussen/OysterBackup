@@ -11,7 +11,7 @@ of stuff, but I guess it is easier just to show it."
 
 "Yes?" Pearl says.
 
-Demonstratively Connie does a one-handed double finger-snap.
+Demonstratively Connie does a one-handed double finger snap.
 "... And then a weapon appears."
 
 Pearl nods. "So, in other words you want to be able to activate
@@ -26,8 +26,8 @@ obvious avenue of utility we missed in the initial design."
 She calls up a number of hologram screens and graphics --- one of them
 a hand. "Do it again," she says.
 
-Connie repeats the gesture: a finger snap with the ring-finger, followed in
-one motion by a regular middle-finger one.
+Connie repeats the gesture: a finger snap with the ring finger, followed in
+one motion by a regular middle finger one.
 
 The hologram hand replays the action, and Pearl fiddles with a dial and
 a slider, making it run through the motion in reverse.
@@ -61,15 +61,15 @@ Connie snaps her fingers and for a brief instant nothing happens; then with
 nary a sound a copy of the training sabre pops into being a few inches from her
 knuckles and clatters to the floor.
 
-["For safety reasons, you'll have to snatch it out of the air," Pearl explains.
+"For safety reasons, you'll have to snatch it out of the air," Pearl explains.
 "It would be bad if it materialized *inside* your fingers... Maybe. Truthfully
 I don't know exactly what would happen. Also, it is way easier to position it
-if it doesn't have to fit in your palm."]
+if it doesn't have to fit in your palm."
 
 Connie dismisses the sword on the floor and tries again. The blade materializes and
-she almost fumbles it.
+this time she only *almost* fumbles it.
 
-"Yeah, you'll have that down in no-time," Amethyst says.
+"Yeah, you'll have that down in no time," Amethyst says.
 
 "I hope so. I'd hate to fumble it in a pinch," Connie remarks and dismisses the
 saber once more. "Anyway, I have another thing."
@@ -90,7 +90,7 @@ Connie nods. "Already, there's the physical strength. I tested it with my father
 barbell set, and Clonnie can lift a little less than twice as much as me; and not to brag, but
 I can lift a 'prodigious' --- according to my father --- 90 pounds."
 
-"Hard-core!" Amethyst interjects.
+"Hardcore!" Amethyst interjects.
 
 "So— I mean, what else can we do?" Connie asks.
 
@@ -152,7 +152,7 @@ Tentatively Clonnie reaches out beyond the table, encountering an invisible barr
 --- not so much a physical obstacle, as her hand just disappearing. Disintegrated.
 A fraction of a second later, Clonnie destabilizes.
 
-Connie wiggles her wrist, taking another snapshot, and Pearl re-instates a
+Connie wiggles her wrist, taking another snapshot, and Pearl reinstates a
 new Clonnie.
 
 "... Let's not try that again," Clonnie says.
@@ -202,7 +202,7 @@ Fact is: me, Garnet, and Pearl are literally a thousand years ahead of you and S
 to combat training. And, we're *Gems* --- made of light and magic, and capable of ruining
 anyone's day to boot. Dig?"
 
-Connie nods, still glaring..
+Connie nods, still glaring...
 
 "*You* don't *need* to be a fighter. Trying to get on our level is, well..." Amethyst sighs.
 "Look at it this way: we" --- she gestures to herself and Pearl --- "are the mid-range specialists.
@@ -211,7 +211,7 @@ of tactical roles."
 
 "And what does that make me?" Clonnie asks.
 
-"Reconnaissance," Amethyst says. "Spies, scouts, decoys. Fighting should be a last-resort for you ---
+"Reconnaissance," Amethyst says. "Spies, scouts, decoys. Fighting should be a last resort for you ---
 I mean, it's still important you know how to defend yourself, but if you go rushing into battle,
 you'll end up, well... Dead. Sorry if I came off as condescending."
 
@@ -223,7 +223,7 @@ Amethyst smiles. "Anyway, how are things looking?" she asks Pearl.
 
 "They would be looking a lot better if
 you could refrain from getting in a fight while I work," Pearl replies, turning back to 
-the holographic interfaces. "I need to un-clutter some of the processes before I can get
+the holographic interfaces. "I need to unclutter some of the processes before I can get
 it to cleanly..." Her hands dance across sliders and keys, and adjusting a gimbal-looking
 construct. A small cluster of networked nodes spring into being, and Pearl cuts a few connections
 with her fingers.
@@ -286,27 +286,27 @@ giant Clonnie says puts smaller Clonnie on her shoulder, much like Opal tends to
 
 Connie groans.
 
-"This is really weird," the small Clonnie says. "Your hair --- it's all coarse."
+"This is really weird," the small Clonnie says. "Your hair--- it's all coarse."
 
-Giant Clonnie giggles. "Twice as large, twice as luscious locks."
+Giant Clonnie giggles. "I'm twice as large, so of *coarse* I have twice as luscious locks."
 
 Amethyst gives the duo a double thumbs up. "You're a riot. Are y'all ready for my next crazy idea?"
 
 "*Yes!* Please!" Connie says. "Before I make any more bad puns!"
 
-Amethyst trots over to Pearl and whispers in her ear. Pearl giggles. "Of course."
+Amethyst trots over to Pearl and whispers in her ear. Pearl giggles. "Certainly."
 With a few gestures she calls up the requisite settings and runs a finger across the same
 slider she used to scale giant Clonnie up, only in the other direction.
 
 Connie starts laughing.
 
-"OK, this is bizarre," says the formerly normal-sized Clonnie, now all of one foot tall,
-standing on the palm of the giant, in a very squeaky voice.
+"OK, this is bizarre," says the formerly normal-sized Clonnie in a very squeaky voice,
+now all of one foot tall, standing on the palm of the giant.
 
 "Here's the dish, though," Amethyst says. "Try jumping."
 
-The tiny Clonnie leaps off the Giant's palm and gains six feet of air, before descending
-towards the ground. She lands without any problems. "Whoa."
+The tiny Clonnie leaps off Giant's palm and gains six feet of air, before reaching the peak
+of her trajectory. She lands without any problems. "Whoa."
 
 "Yeah, see, the problem with big girl," Amethyst says, "is that she is *big*. That means
 if we should weight her down so it felt natural, she would have to be many times stronger
@@ -319,8 +319,8 @@ the same amount of power through you as a regular sized Clonnie, you get hella p
 Pearl, do we have something--- wait, could you give her a regular-sized revolver?"
 
 Pearl, in the middle of tuning a rather complicated set of sliders and monitoring several
-rapidly changing 3D visualizations spares a moments use of one hand to poke a single button
-without looking, not even breaking stride.
+rapidly changing 3D visualizations spares a moment's use of one hand to poke a single button
+without looking or even breaking stride.
 
 The familiar revolver pops into being on the composer table. The small Clonnie jogs up to it,
 and picks up the comparatively, comically huge weapon. "What now?"
@@ -358,7 +358,7 @@ replacing them with a new, comparatively ordinary Clonnie.
 
 With a few commands, Pearl effects the requisite change.
 
-"Whoa," Clonnie says. Her first action upon feeling Gravity lessen it's tug on her, is
+"Whoa," Clonnie says. Her first action upon feeling gravity lessen its tug on her, is
 of course to jump. This sends her headfirst into the invisible barrier above, poofing her.
 
 "... Let's try that again, but could you add some walls and a ceiling?" Connie asks
@@ -427,7 +427,7 @@ nuance in the instrumentation are far beyond anything Connie have ever heard ---
 motifs she experiences during combat (that's Connie's opinion, anyway.)
 
 She reaches out and flicks a slider without even reading it's tag,
-and Clonnie looses contact with the floor.
+and Clonnie loses contact with the floor.
 
 "Whoa," she says. "Vertigo--- OK, this is beyond freaky. Can--- can I get a hand-hold or something?
 Maybe a sick-bag."
@@ -442,7 +442,7 @@ grab.
 Having steadied herself, Clonnie looks down at Pearl. "So, captain, my captain. What's next?"
 
 Connie undoes the complete weightlessness and leaves Clonnie at about half normal weight.
-She lets her eyes brows over the assortment of holograms as Pearl keys the last settings
+She lets her eyes browse over the assortment of holograms as Pearl keys the last settings
 into the now rather streamlined holographic setup. (To be fair, it's comparable to an infant's playground.
 All the sharp corners have been sanded, all the dangerous things hidden,
 and everything else is metaphorically brightly colored and easily manipulable.)
@@ -492,7 +492,7 @@ She turns back to Clonnie. "Are you OK?"
 "Cold," she says and shivers. "Colder than anything I have ever felt.
 I was really light. It was dark."
 
-"Yeah, that's a side effect," Amethyst says. "Speedup like that you probably felt something
+"Yeah, that's a side effect," Amethyst says. "Sped up like that you probably felt something
 a little south of where air condenses. Also it would have dampened light and gravity in a similar
 fashion. Are you gonna be OK?"
 
@@ -505,7 +505,7 @@ her wrist and instantiates a new Clonnie.
 
 Connie nods and starts keying in a new set of changes, but
 a scare-chord from the circlet prompts her to check her phone.
-"Oh damn. It's really late." She looks up just as
+"Oh shoot. It's really late." She looks up just as
 Garnet comes in, carrying an exhausted Steven.
 
 Connie's eyes go wide.
